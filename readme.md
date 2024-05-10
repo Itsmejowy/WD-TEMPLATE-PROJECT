@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://i.pinimg.com/564x/09/ed/8a/09ed8aaeca04c9847f5854563bef84db.jpg" alt= width="130" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Juventus_FC_2017_squared_icon_%28white%29.png" alt= width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">SUI</h3>
